@@ -1,0 +1,48 @@
+Description of the website:
+
+In this description I briefly explained about the website. This whole website is not for only one anchor( because giving an access to only one author makes website less scalable) user can see and subscribe to any number of authors( this adds to the author's publicity) which he likes and the authors can upload their videos and books and advertise them( so there will be a seperate sign up form for both the author and the user, you can choose any of them).
+While signing up one can have option i.e as author or as user according to the selected option user will be provided with the repective service. User can also sign up as a normal user and later he can update his status as author through JOINUS link which is  provided in the website.
+
+Baically when the user sign Up he could see only one author( but later by refershing the page or clicking on the link  he culd change the author, but  only after signing up). I addded this feature because enabling many authors increases the scalabality of the website. I used "US" in most of the images i.e only for refernce:p . All images are links in thi wireframe. We could also add some animations moving objects and make the website more attractive.
+
+
+1. The attachment contains 4 images complete.png, 1.jpg, 2.jpg annd 3.jpg
+
+2. complete.png shows the full website since we can't read it properly I attached different parts seperatly.
+
+3. The first container of the 1.png conatins the company's logo and signUp, logIn option this we could build using bootstrap and jQuery. The second container of 1.jpg contains 5 icons and all are links to respective pages, user could search all videos of the particuar author and particular subjects(user could also subscribe, like and comment in that page), the second icon, when the user clicks on this icon this would take the user to the page where he could search,watch and subscribe to  all the talks given by that particular author, the third icon takes the user to the page where the user could see all the books written by that particular author, if the user wants to buy the particular book he could click on the option buy( for which he should be logged into his account because while signing up we will collect his account details and maintain all those information in the back end(mysql and php) or if the user wants to buy books( not reading just buying ) he could go to the download option ( 4th icon) and download after logging into his account and the last icon shows what is new in the website that is, all the newly arrived books, newly added authors, their videos, and their courses.This whole part could be built using html, css, bootstrap, jQuery, javascript,  php and mysql(back end) and we could also add popup option for every icon which would give further information about the author.
+
+4. The 2.jpg image contains 4 images and all of them are links to respective pages. The first one shows all the work of author whom user is subscribed to( for which user need to be looged in), the second image( i.e the link again) takes the user to the page where user could add his videos and becomes an author i.e the updation of one's account to author.  Join this website as  an course instructor and make your work available to  everyone. The third image will take  the user to the page where the user could  see all weekly updated news and also teaching and learing tips given by that particular author. The fourth image will take the user to the page where user could give feedback and also comment on  author's work and also he could chat with the author . The fifth image takes the user to the page the user could try a free trial of videos of a paricular author( which he likes), to enabe this he should sign up and should give details( so when the user clicks on this , there will be a pop up window in case he is not logged in and that tells him to sign up or login and continue).
+
+5.The 2.jpg image has second conatiner which has the little information about website here user will find 3 icons and all of them are links to repective pages. The first one is connecting the dots i.e when the user cicks on this ( one should login or sign Up to enable this) link this will take the user to the page where user could enter his subject of interest and tech talks he wants to  watch and books he is inerested in. The second icon is start today which will take the user to the page ( only if he is logged into the page and made it enable) where he could see all his progress i.s the videos he watched frequently, the books he read the most and types of books he is intereted in so basically this is a database which maintains all information about the logged in user(if he is an author then this link would contain information about his videos and books and subscribed users etc..)And the last icon takes the user to the page where user coould take a sample tour( before sign up or for the firt time when user sign Up only).
+
+6. The 3.jpg has single container which is divided into 2 parts, first part contains information of overall frequently watched videos of that particular author, the other side of this conatiner has frequenly bought book of that particular author. The second part contains icons when you hover over them they will give you respective informaion (about, blog, contact, support and help) of that particular author. User could also find facebook, twitter, google+ and linkedin links of the website(and alo for that particular author) in the bottom right corner.
+
+
+So basically this website is for an author who wants to give online courses and for the learner who wants to learn through online videos.
+
+Refererred websites:
+
+1. I referred some of my previous websites which I created as part of my project work i.e MOBILE GALLERY, PORJECT MASTER, iFASHION websites)
+which are not hosted yet but you could find them in my github link.
+
+Github link: https://github.com/DeepikaMM
+
+I reffered some educational websites 
+2. Coursera: which is more elegant I felt, everything is proper, inplace, user friendly and they did not add more animations and unnecessary things. 
+3. Lynda.com in which I liked the design part, animation they used and the website is user frinedly and I did not find any unnecessary things.
+ 
+I did not refer many websites( I reffered my own websites though:p) because I want to try it on my own and to make it more user friendly by not including unnecessary things.
+
+
+Implementation details:
+
+ I would like to implement the website using HTML5, CSS, Javascript, Bootstrap, jQuery, Ajax features and SQL and Php( for back end).
+
+
+Thank You
+
+Deepika M M
+email id: deepikamm10@gmail.com
+ph no: 8105829185
+
